@@ -1,0 +1,11 @@
+{
+  "name": "imperial",
+  "version": "1.0.0",
+  "description": "A website for a school in Egypt called \"Imperial College Egypt\".",
+  "main": "index.html",
+  "scripts": {
+    "test": "cd backEnd | node server.js"
+  },
+  "author": "Hackathon Members",
+  "license": "ISC"
+}
