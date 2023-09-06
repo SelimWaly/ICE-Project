@@ -1,0 +1,45 @@
+
+			<!-- <div class="col-md-6 animate-box">
+					<div class="course">
+						<a href="#" class="course-img" style="background-image: url(images/project-1.jpg);">
+						</a>
+						<div class="desc">
+							<h3><a href="#">Event 6</a></h3>
+							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio minus nisi ullam, possimus, nam nulla suscipit aspernatur dolorem excepturi dicta dolorum impedit placeat blanditiis similique incidunt soluta ad commodi architecto.</p>
+							<span><a href="#" class="btn btn-primary btn-sm btn-course">View Event</a></span>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 animate-box">
+					<div class="course">
+						<a href="#" class="course-img" style="background-image: url(images/project-2.jpg);">
+						</a>
+						<div class="desc">
+							<h3><a href="#">Event 5</a></h3>
+							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio minus nisi ullam, possimus, nam nulla suscipit aspernatur dolorem excepturi dicta dolorum impedit placeat blanditiis similique incidunt soluta ad commodi architecto.</p>
+							<span><a href="#" class="btn btn-primary btn-sm btn-course">View Event</a></span>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 animate-box">
+					<div class="course">
+						<a href="#" class="course-img" style="background-image: url(images/project-3.jpg);">
+						</a>
+						<div class="desc">
+							<h3><a href="#">Event 4</a></h3>
+							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio minus nisi ullam, possimus, nam nulla suscipit aspernatur dolorem excepturi dicta dolorum impedit placeat blanditiis similique incidunt soluta ad commodi architecto.</p>
+							<span><a href="#" class="btn btn-primary btn-sm btn-course">View Event</a></span>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 animate-box">
+					<div class="course">
+						<a href="#" class="course-img" style="background-image: url(images/project-4.jpg);">
+						</a>
+						<div class="desc">
+							<h3><a href="#">Event 3</a></h3>
+							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio minus nisi ullam, possimus, nam nulla suscipit aspernatur dolorem excepturi dicta dolorum impedit placeat blanditiis similique incidunt soluta ad commodi architecto.</p>
+							<span><a href="#" class="btn btn-primary btn-sm btn-course">View Event</a></span>
+						</div>
+					</div>
+				</div> -->
