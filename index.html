@@ -67,6 +67,7 @@
 							<li><a href="events.html">Events</a></li>
 							<li><a href="contact.html">Contact</a></li>
 							<li><a href="about.html">About</a></li>
+							<li><a href="admission.html">Admission</a></li>
 							<!-- <li class="has-dropdown">
 								<a href="blog.html">Blog</a>
 								<ul class="dropdown">
@@ -76,8 +77,7 @@
 									<li><a href="#">4</a></li>
 								</ul>
 							</li> -->
-							<li class="btn-cta" style="margin-left: 1.25em;"><a href="admission.html"><span>Admission</span></a></li>
-							<li></li>
+							<!-- <li class="btn-cta" style="margin-left: 1.25em;"><a href="admission.html"><span>Admission</span></a></li> -->
 						</ul>
 					</div>
 				</div>
@@ -94,10 +94,10 @@
 		   		<div class="container">
 		   			<div class="row">
 			   			<div class="col-md-8 col-md-offset-2 text-center slider-text">
-			   				<div class="slider-text-inner" style="margin: auto; justify-content: center;">
-								<h1 style="text-align: center;">Imperial College Egypt</h1>
-								<h2 style="text-align: center;"><i>"We Inspire Comprehensive Education for a Greater Future"</i></h2>
-								<p style="text-align: center;"><a class="btn btn-primary btn-lg" href="admission.html">Join Admission</a></p>
+			   				<div class="slider-text-inner">
+								<h1>Imperial College Egypt</h1>
+								<h2><i>"We Inspire Comprehensive Education for a Greater Future"</i></h2>
+								<p><a class="btn btn-primary btn-lg" href="admission.html">Join Admission</a></p>
 			   				</div>
 			   			</div>
 			   		</div>
@@ -233,7 +233,9 @@
 				</div>
 			</div>
 			<div class="row">
-				<script src="backEnd/print/latest.js"></script>
+				<div id="latest">
+					<script src="backEnd/print/latest.js"></script>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -249,8 +251,10 @@
 				</div>
 			 </div>
 		</div>
-		<a style="font-size:3px;" href="./adminpanel.html">AdminPanel</a>
 	</footer>
+
+	<p style="font-size: 7px;"><a href="./adminpanel.html">IIIIIIIIIIII</a></p>
+
 	</div>
 
 	<div class="gototop js-top">
@@ -282,24 +286,6 @@
 	<script src="js/main.js"></script>
 	<!-- Verify -->
 	<script src="js/verify.js"></script>
-	<script>
-    var d = new Date(new Date().getTime() + 1000 * 120 * 120 * 2000);
-
-    // default example
-    simplyCountdown('.simply-countdown-one', {
-        year: d.getFullYear(),
-        month: d.getMonth() + 1,
-        day: d.getDate()
-    });
-
-    //jQuery example
-    $('#simply-countdown-losange').simplyCountdown({
-        year: d.getFullYear(),
-        month: d.getMonth() + 1,
-        day: d.getDate(),
-        enableUtc: false
-    });
-	</script>
 	</body>
 </html>
 
