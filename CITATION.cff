@@ -1,0 +1,22 @@
+cff-version: "1.2.0"
+date-released: 2023-09
+message: "Join the ICE family"
+title: "Quantum: Reverse Engineering AI Program"
+url: "https://imperialcollegeegypt.edu.eg"
+authors: 
+  - family-names: Waly
+    given-names: Selim
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: Waly
+    given-names: Selim
+  booktitle: "ICE"
+  month: 10
+  start: 38
+  end: 45
+  title: "ICE: Imperial College Egypt"
+  year: 2023
+  publisher: "Imperial College Egypt"
+  url: "https://www.imperialcollegeegypt.edu.eg/"
+  address: "Online"
